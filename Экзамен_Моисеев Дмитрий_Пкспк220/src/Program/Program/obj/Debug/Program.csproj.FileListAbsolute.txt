@@ -1,0 +1,10 @@
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\bin\Debug\Program.exe.config
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\bin\Debug\Program.exe
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\bin\Debug\Program.pdb
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\obj\Debug\Program.exe
+C:\Users\stu-pkspk220\Desktop\Экзамен\Program\Program\obj\Debug\Program.pdb
